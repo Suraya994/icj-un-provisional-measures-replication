@@ -1,0 +1,14 @@
+{
+  "post_or_same_day_pairs": 8557,
+  "preliminary_code_counts": {
+    "0": 8246,
+    "1": 25,
+    "2": 53,
+    "9": 233
+  },
+  "selected_code9_pairs": 233,
+  "manual_review_pairs": 233,
+  "exact_pair_key_match": true,
+  "selected_only": 0,
+  "manual_only": 0
+}

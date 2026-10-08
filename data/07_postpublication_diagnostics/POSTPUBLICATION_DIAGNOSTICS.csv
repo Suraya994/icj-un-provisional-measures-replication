@@ -1,0 +1,10 @@
+metric,value,detail
+primary_order_positive_rate,2/24,Wilson 95% CI 0.0232-0.2585
+primary_case_positive_rate,1/17,Wilson 95% CI 0.0105-0.2698; positive case: 192
+broad_attention_180d_case_level,6/17,"Case numbers 140,180,181,182,188,192"
+reporting_requirement_fisher_exact_two_sided,0.4782608696,"Table [[2,10],[0,12]]; descriptive diagnostic, not part of published confirmatory inference."
+reporting_requirement_excluding_case_192,YES 0/9 ; NO 0/12,All remaining orders have zero order-specific engagement.
+symmetric_screen_pre_same_post,8856/76/8481,"PRE_ORDER / SAME_DAY / POST_ORDER among 17,413 eligible pairs."
+primary_postorder_pairs,4868,Original 233 layer covers 209; union with reconstructed recall candidate IDs covers 242.
+primary_orders_zero_original233_review,12,Orders with no pair in original 233 manual-review layer.
+primary_orders_zero_union_review_evidence,8,Orders with no pair in original 233 or reconstructed 120 recall candidate set.

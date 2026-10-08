@@ -1,0 +1,19 @@
+{
+  "legal_decisions": 41,
+  "unique_cases": 27,
+  "un_events": 13692,
+  "theoretical_pairs": 561372,
+  "eligible_pairs": 17413,
+  "manual_pairs": 233,
+  "recall_pairs": 120,
+  "positive_documentary_records": 4,
+  "positive_institutional_processes": 3,
+  "primary_orders": 24,
+  "sensitivity_orders": 27,
+  "broad_30d": 6,
+  "broad_90d": 7,
+  "broad_180d": 10,
+  "order_specific_30d": 2,
+  "order_specific_90d": 2,
+  "order_specific_180d": 2
+}

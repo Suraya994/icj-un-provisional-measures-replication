@@ -1,0 +1,42 @@
+order_id,case_number,order_date,case_title,legal_category,primary_sample,sensitivity_sample,reporting_requirement,broad_30d,order_specific_30d,broad_90d,order_specific_90d,broad_180d,order_specific_180d,positive_documentary_records_final,positive_institutional_processes_final,order_specific_engagement_final
+ICJ-126-2002-07-10,126,2002-07-10,Armed Activities on the Territory of the Congo (New Application: 2002) (Democratic Republic of the Congo v. Rwanda),REQUEST_REJECTED,0,0,NO,0,0,0,0,0,0,0,0,0
+ICJ-128-2003-02-05,128,2003-02-05,Avena and Other Mexican Nationals (Mexico v. United States of America),NEW_PM,1,1,YES,0,0,0,0,0,0,0,0,0
+ICJ-129-2003-06-17,129,2003-06-17,Certain Criminal Proceedings in France (Republic of the Congo v. France),REQUEST_REJECTED,0,0,NO,0,0,0,0,0,0,0,0,0
+ICJ-135-2006-07-13,135,2006-07-13,Pulp Mills on the River Uruguay (Argentina v. Uruguay),REQUEST_REJECTED,0,0,NO,0,0,0,0,0,0,0,0,0
+ICJ-135-2007-01-23,135,2007-01-23,Pulp Mills on the River Uruguay (Argentina v. Uruguay),REQUEST_REJECTED,0,0,NO,0,0,0,0,0,0,0,0,0
+ICJ-139-2008-07-16,139,2008-07-16,Request for Interpretation of the Judgment of 31 March 2004 in the Case concerning Avena and Other Mexican Nationals (Mexico v. United States of America) (Mexico v. United States of America),NEW_PM,1,1,YES,0,0,0,0,0,0,0,0,0
+ICJ-140-2008-10-15,140,2008-10-15,Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Georgia v. Russian Federation),NEW_PM,1,1,YES,0,0,0,0,1,0,0,0,0
+ICJ-144-2009-05-28,144,2009-05-28,Questions relating to the Obligation to Prosecute or Extradite (Belgium v. Senegal),REQUEST_REJECTED,0,0,NO,0,0,0,0,0,0,0,0,0
+ICJ-150-2011-03-08,150,2011-03-08,Certain Activities Carried Out by Nicaragua in the Border Area (Costa Rica v. Nicaragua),NEW_PM,1,1,YES,0,0,0,0,0,0,0,0,0
+ICJ-151-2011-07-18,151,2011-07-18,Request for Interpretation of the Judgment of 15 June 1962 in the Case concerning the Temple of Preah Vihear (Cambodia v. Thailand) (Cambodia v. Thailand),NEW_PM,1,1,YES,0,0,0,0,0,0,0,0,0
+ICJ-150-2013-07-16,150,2013-07-16,Certain Activities Carried Out by Nicaragua in the Border Area (Costa Rica v. Nicaragua),REAFFIRMED_PM,0,1,NO,0,0,0,0,0,0,0,0,0
+ICJ-150-2013-11-22,150,2013-11-22,Certain Activities Carried Out by Nicaragua in the Border Area (Costa Rica v. Nicaragua),NEW_PM,1,1,YES,0,0,0,0,0,0,0,0,0
+ICJ-152-2013-12-13,152,2013-12-13,Construction of a Road in Costa Rica along the San Juan River (Nicaragua v. Costa Rica),REQUEST_REJECTED,0,0,NO,0,0,0,0,0,0,0,0,0
+ICJ-156-2014-03-03,156,2014-03-03,Questions relating to the Seizure and Detention of Certain Documents and Data (Timor-Leste v. Australia),NEW_PM,1,1,NO,0,0,0,0,0,0,0,0,0
+ICJ-156-2015-04-22,156,2015-04-22,Questions relating to the Seizure and Detention of Certain Documents and Data (Timor-Leste v. Australia),MODIFIED_PM,1,1,NO,0,0,0,0,0,0,0,0,0
+ICJ-163-2016-12-07,163,2016-12-07,Immunities and Criminal Proceedings (Equatorial Guinea v. France),NEW_PM,1,1,NO,0,0,0,0,0,0,0,0,0
+ICJ-166-2017-04-19,166,2017-04-19,Application of the International Convention for the Suppression of the Financing of Terrorism and of the International Convention on the Elimination of All Forms of Racial Discrimination (Ukraine v. Russian Federation),NEW_PM,1,1,NO,0,0,0,0,0,0,0,0,0
+ICJ-168-2017-05-18,168,2017-05-18,Jadhav (India v. Pakistan),NEW_PM,1,1,YES,0,0,0,0,0,0,0,0,0
+ICJ-172-2018-07-23,172,2018-07-23,Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates),NEW_PM,1,1,NO,0,0,0,0,0,0,0,0,0
+ICJ-172-2019-06-14,172,2019-06-14,Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates),REQUEST_REJECTED,0,0,NO,0,0,0,0,0,0,0,0,0
+ICJ-178-2020-01-23,178,2020-01-23,Application of the Convention on the Prevention and Punishment of the Crime of Genocide (The Gambia v. Myanmar: 11 States intervening),NEW_PM,1,1,YES,0,0,0,0,0,0,0,0,0
+ICJ-180-2021-12-07,180,2021-12-07,Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Armenia v. Azerbaijan),NEW_PM,1,1,NO,0,0,0,0,1,0,0,0,0
+ICJ-181-2021-12-07,181,2021-12-07,Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Azerbaijan v. Armenia),NEW_PM,1,1,NO,0,0,0,0,1,0,0,0,0
+ICJ-182-2022-03-16,182,2022-03-16,Allegations of Genocide under the Convention on the Prevention and Punishment of the Crime of Genocide (Ukraine v. Russian Federation),NEW_PM,1,1,NO,1,0,1,0,1,0,0,0,0
+ICJ-183-2022-05-10,183,2022-05-10,Questions of jurisdictional immunities of the State and measures of constraint against State-owned property (Germany v. Italy),WITHDRAWN_DISCONTINUED,0,0,NO,0,0,0,0,0,0,0,0,0
+ICJ-180-2022-10-12,180,2022-10-12,Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Armenia v. Azerbaijan),REAFFIRMED_PM,0,1,NO,0,0,1,0,1,0,0,0,0
+ICJ-184-2022-10-21,184,2022-10-21,Request relating to the Return of Property Confiscated in Criminal Proceedings (Equatorial Guinea v. France),WITHDRAWN_DISCONTINUED,0,0,NO,0,0,0,0,0,0,0,0,0
+ICJ-180-2023-02-22,180,2023-02-22,Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Armenia v. Azerbaijan),NEW_PM,1,1,NO,0,0,1,0,1,0,0,0,0
+ICJ-181-2023-02-22,181,2023-02-22,Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Azerbaijan v. Armenia),REQUEST_REJECTED,0,0,NO,0,0,0,0,0,0,0,0,0
+ICJ-180-2023-07-06,180,2023-07-06,Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Armenia v. Azerbaijan),REAFFIRMED_PM,0,1,NO,1,0,1,0,1,0,0,0,0
+ICJ-188-2023-11-16,188,2023-11-16,"Application of the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (Canada and Netherlands v. Syrian Arab Republic)",NEW_PM,1,1,NO,1,0,1,0,1,0,0,0,0
+ICJ-180-2023-11-17,180,2023-11-17,Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Armenia v. Azerbaijan),NEW_PM,1,1,YES,1,0,1,0,1,0,0,0,0
+ICJ-171-2023-12-01,171,2023-12-01,Arbitral Award of 3 October 1899 (Guyana v. Venezuela),NEW_PM,1,1,NO,0,0,0,0,0,0,0,0,0
+ICJ-192-2024-01-26,192,2024-01-26,Application of the Convention on the Prevention and Punishment of the Crime of Genocide in the Gaza Strip (South Africa v. Israel),NEW_PM,1,1,YES,1,1,1,1,1,1,3,2,1
+ICJ-192-2024-03-28,192,2024-03-28,Application of the Convention on the Prevention and Punishment of the Crime of Genocide in the Gaza Strip (South Africa v. Israel),MODIFIED_PM,1,1,YES,1,0,1,0,1,0,0,0,0
+ICJ-193-2024-04-30,193,2024-04-30,Alleged Breaches of Certain International Obligations in respect of the Occupied Palestinian Territory (Nicaragua v. Germany),REQUEST_REJECTED,0,0,NO,0,0,0,0,0,0,0,0,0
+ICJ-194-2024-05-23,194,2024-05-23,Embassy of Mexico in Quito (Mexico v. Ecuador),REQUEST_REJECTED,0,0,NO,0,0,0,0,0,0,0,0,0
+ICJ-192-2024-05-24,192,2024-05-24,Application of the Convention on the Prevention and Punishment of the Crime of Genocide in the Gaza Strip (South Africa v. Israel),MODIFIED_PM,1,1,YES,1,1,1,1,1,1,1,1,1
+ICJ-171-2025-05-01,171,2025-05-01,Arbitral Award of 3 October 1899 (Guyana v. Venezuela),MODIFIED_PM,1,1,NO,0,0,0,0,0,0,0,0,0
+ICJ-197-2025-05-05,197,2025-05-05,Application of the Convention on the Prevention and Punishment of the Crime of Genocide in Sudan (Sudan v. United Arab Emirates),REQUEST_REJECTED,0,0,NO,0,0,0,0,0,0,0,0,0
+ICJ-184-2025-09-12,184,2025-09-12,Request relating to the Return of Property Confiscated in Criminal Proceedings (Equatorial Guinea v. France),REQUEST_REJECTED,0,0,NO,0,0,0,0,0,0,0,0,0

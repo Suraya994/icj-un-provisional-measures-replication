@@ -1,0 +1,4 @@
+window_days,primary_orders_with_preorder_proxy_signal,primary_orders_with_postorder_proxy_signal,interpretation
+30,6,6,Automated E2/E4/E5/E6 screening proxy only; not human-coded institutional engagement and not a causal test.
+90,12,9,Automated E2/E4/E5/E6 screening proxy only; not human-coded institutional engagement and not a causal test.
+180,16,15,Automated E2/E4/E5/E6 screening proxy only; not human-coded institutional engagement and not a causal test.

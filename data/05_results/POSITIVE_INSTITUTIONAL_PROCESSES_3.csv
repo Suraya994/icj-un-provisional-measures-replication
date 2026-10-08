@@ -1,0 +1,4 @@
+process_id,order_id,order_date,case_number,case,UN_organ,process_date,lag_days,document_symbols,document_count,institutional_form,adopted_collective_action
+SC_2024_02_20_DRAFT_AND_VOTE,ICJ-192-2024-01-26,2024-01-26,192,South Africa v. Israel,Security Council,2024-02-20,25,S/2024/173 | S/PV.9552,2,PROPOSED_COLLECTIVE_ACTION_PLUS_DELIBERATION,0
+GA_2024_03_04_USE_OF_VETO_DEBATE,ICJ-192-2024-01-26,2024-01-26,192,South Africa v. Israel,General Assembly,2024-03-04,38,A/78/PV.59,1,DELIBERATIVE_ENGAGEMENT,0
+SC_2024_05_29_ORDER_DELIBERATION,ICJ-192-2024-05-24,2024-05-24,192,South Africa v. Israel,Security Council,2024-05-29,5,S/PV.9638,1,DELIBERATIVE_ENGAGEMENT,0

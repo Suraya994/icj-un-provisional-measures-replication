@@ -1,0 +1,43 @@
+{
+  "package_version": "1.3.0",
+  "status": "PUBLIC_RELEASE_READY_WITH_DISCLOSED_POSTPUBLICATION_ERRATUM",
+  "passed_checks": [
+    "41 decisions / 27 cases",
+    "13,692 structured UN events",
+    "561,372 theoretical pairs",
+    "17,413 temporal pairs rebuilt from dates",
+    "original dictionary screen exact 233-key reconstruction",
+    "233 final code distribution 73/31/126/3",
+    "24 primary / 27 sensitivity orders",
+    "6/7/10 broad counts",
+    "2/2/2 published order-specific indicators",
+    "4 documentary records / 3 processes / 2 positive orders",
+    "137 stored expected SHA-256 equals stored recomputed SHA-256",
+    "unreviewed pairs explicitly distinguished from reviewed evidence",
+    "no named pending second coder in canonical row-level data",
+    "positive evidence pin-cites verified",
+    "P5 wording discrepancy documented",
+    "120-row binary human recall-review ledger included with exact pair-key concordance",
+    "multi-licensing applied: MIT code; CC BY-NC 4.0 original data/docs"
+  ],
+  "known_published_discrepancies": [
+    "P5 country-label wording"
+  ],
+  "paper_concordance": {
+    "checks": 83,
+    "match": 79,
+    "mismatch": 1,
+    "unverifiable": 3
+  },
+  "public_release_blockers": [],
+  "archival_open_items": [
+    "recover original four-way 113/5/1/1 row-to-subcategory mapping if a contemporaneous copy exists",
+    "obtain/preserve local bytes and SHA-256 for S/2024/173 and A/78/PV.59 if desired",
+    "publisher erratum decision for P5 wording"
+  ],
+  "new_human_work_not_claimed": [
+    "exhaustive review of 4,868 primary post-order pairs",
+    "independent second coding",
+    "retrospective human pin-cites for nonpositive rows"
+  ]
+}

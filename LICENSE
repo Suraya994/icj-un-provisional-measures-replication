@@ -1,0 +1,16 @@
+MULTI-LICENSE NOTICE
+
+Copyright (c) 2026 Suraya Bazarova
+
+This repository contains material under different licences:
+
+1. SOURCE CODE
+Files under code/, tests/, and .github/workflows/ are licensed under the MIT License. See LICENSE-CODE.
+
+2. AUTHOR-CREATED RESEARCH DATA AND DOCUMENTATION
+Original coding tables, derived tables/figures, codebook, provenance documentation and other author-created research materials are licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). See LICENSE-DATA-DOCS.
+
+3. THIRD-PARTY MATERIAL
+United Nations and International Court of Justice document text, document symbols, URLs, bibliographic metadata and other third-party material remain subject to the rights and terms of their original sources. This repository does not relicense third-party source documents. Raw UN/ICJ PDFs are not redistributed in this compact release.
+
+When in doubt, see LICENSE_NOTICE.md.

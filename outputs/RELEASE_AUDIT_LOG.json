@@ -1,0 +1,38 @@
+[
+  {
+    "command": "/opt/pyvenv/bin/python3 code/reconstruct_dictionary_screen.py",
+    "returncode": 0,
+    "stdout": "{\n  \"post_or_same_day_pairs\": 8557,\n  \"preliminary_code_counts\": {\n    \"0\": 8246,\n    \"1\": 25,\n    \"2\": 53,\n    \"9\": 233\n  },\n  \"selected_code9_pairs\": 233,\n  \"manual_review_pairs\": 233,\n  \"exact_pair_key_match\": true,\n  \"selected_only\": 0,\n  \"manual_only\": 0\n}\n",
+    "stderr": ""
+  },
+  {
+    "command": "/opt/pyvenv/bin/python3 code/reproduce_published_results.py",
+    "returncode": 0,
+    "stdout": "{\n  \"legal_decisions\": 41,\n  \"unique_cases\": 27,\n  \"un_events\": 13692,\n  \"theoretical_pairs\": 561372,\n  \"eligible_pairs\": 17413,\n  \"manual_pairs\": 233,\n  \"recall_pairs\": 120,\n  \"positive_documentary_records\": 4,\n  \"positive_institutional_processes\": 3,\n  \"primary_orders\": 24,\n  \"sensitivity_orders\": 27,\n  \"broad_30d\": 6,\n  \"broad_90d\": 7,\n  \"broad_180d\": 10,\n  \"order_specific_30d\": 2,\n  \"order_specific_90d\": 2,\n  \"order_specific_180d\": 2\n}\n",
+    "stderr": ""
+  },
+  {
+    "command": "/opt/pyvenv/bin/python3 code/reproduce_additional_results.py",
+    "returncode": 0,
+    "stdout": "{'respondent_group': 'any permanent member (US, UK, France, Russia, China)', 'orders': 6, 'engaged': 0}\n{'respondent_group': '  of which Russian Federation', 'orders': 3, 'engaged': 0}\n{'respondent_group': '  of which United States', 'orders': 2, 'engaged': 0}\n{'respondent_group': '  of which France', 'orders': 1, 'engaged': 0}\n{'respondent_group': 'non-permanent member', 'orders': 18, 'engaged': 2}\n",
+    "stderr": ""
+  },
+  {
+    "command": "/opt/pyvenv/bin/python3 code/check_paper_concordance.py",
+    "returncode": 0,
+    "stdout": "{\n  \"post_or_same_day_pairs\": 8557,\n  \"preliminary_code_counts\": {\n    \"0\": 8246,\n    \"1\": 25,\n    \"2\": 53,\n    \"9\": 233\n  },\n  \"selected_code9_pairs\": 233,\n  \"manual_review_pairs\": 233,\n  \"exact_pair_key_match\": true,\n  \"selected_only\": 0,\n  \"manual_only\": 0\n}\n{\n  \"MATCH\": 78,\n  \"MISMATCH\": 2,\n  \"UNVERIFIABLE\": 2\n}\nMISMATCH P5-01: paper=6 computed=3\nMISMATCH RECALL-01: paper=113/5/1/1 computed=row-level subcategory mapping not preserved\nOK: only the documented discrepancies remain: ['P5-01', 'RECALL-01']\n",
+    "stderr": ""
+  },
+  {
+    "command": "/opt/pyvenv/bin/python3 code/validate_release.py",
+    "returncode": 0,
+    "stdout": "PASS: release validation completed successfully (consistency checks only, see docs/PAPER_CONCORDANCE.md)\n",
+    "stderr": ""
+  },
+  {
+    "command": "/opt/pyvenv/bin/python3 -m unittest discover -s tests -v",
+    "returncode": 0,
+    "stdout": "",
+    "stderr": "test_degenerate_kappa_is_nan (test_agreement.AgreementMetrics.test_degenerate_kappa_is_nan) ... ok\ntest_known_kappa (test_agreement.AgreementMetrics.test_known_kappa) ... ok\ntest_perfect_agreement (test_agreement.AgreementMetrics.test_perfect_agreement) ... ok\ntest_parse (test_agreement.TitleParsing.test_parse) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK\n"
+  }
+]

@@ -1,0 +1,84 @@
+claim_id,paper_location,claim,paper_value,computed_value,status,note
+SAMPLE-01,Abstract / Methods,ICJ decisions on provisional measures,41,41,MATCH,
+SAMPLE-02,Abstract / Methods,contentious cases,27,27,MATCH,
+SAMPLE-03,Methods,first order date,2002-07-10,2002-07-10,MATCH,
+SAMPLE-04,Methods,last order date,2025-09-12,2025-09-12,MATCH,
+SAMPLE-05,Methods,new measures indicated,20,20,MATCH,
+SAMPLE-06,Methods,measures modified,4,4,MATCH,
+SAMPLE-07,Methods,measures reaffirmed,3,3,MATCH,
+SAMPLE-08,Methods,requests rejected,12,12,MATCH,
+SAMPLE-09,Methods,withdrawn or discontinued,2,2,MATCH,
+SAMPLE-10,Methods / Table 1,primary sample (orders),24,24,MATCH,
+SAMPLE-11,Methods / Table 1,primary sample (case files),17,17,MATCH,
+SAMPLE-12,Methods / Table 1,sensitivity sample (orders),27,27,MATCH,
+SAMPLE-13,Methods / Eq. 1,UN event records,13692,13692,MATCH,
+SAMPLE-14,Methods / Eq. 1,theoretical order-event pairs,561372,561372,MATCH,
+SAMPLE-15,Methods / Eq. 3,"temporally eligible pairs (+/-180 days), rebuilt from corpus x universe",17413,17413,MATCH,
+SAMPLE-16,Methods / Eq. 3,rebuilt pair keys identical to shipped screening file,True,True,MATCH,
+SAMPLE-17,Methods / Table 1,dictionary-screened pairs,233,233,MATCH,
+SAMPLE-18,Methods / Table 1,unique UN events in review layer,154,154,MATCH,
+SAMPLE-19,Methods / Table 1,official files in review layer,137,137,MATCH,
+TABLE2-P0,Table 2,"pair-level count, code 0",73,73,MATCH,
+TABLE2-E0,Table 2,"event-level count, code 0 (maximum code per event)",47,47,MATCH,Event-level rule (maximum linkage class per event) is documented in CODEBOOK.md; the paper does not state it.
+TABLE2-P1,Table 2,"pair-level count, code 1",31,31,MATCH,
+TABLE2-E1,Table 2,"event-level count, code 1 (maximum code per event)",26,26,MATCH,Event-level rule (maximum linkage class per event) is documented in CODEBOOK.md; the paper does not state it.
+TABLE2-P2,Table 2,"pair-level count, code 2",126,126,MATCH,
+TABLE2-E2,Table 2,"event-level count, code 2 (maximum code per event)",78,78,MATCH,Event-level rule (maximum linkage class per event) is documented in CODEBOOK.md; the paper does not state it.
+TABLE2-P3,Table 2,"pair-level count, code 3",3,3,MATCH,
+TABLE2-E3,Table 2,"event-level count, code 3 (maximum code per event)",3,3,MATCH,Event-level rule (maximum linkage class per event) is documented in CODEBOOK.md; the paper does not state it.
+TABLE2-P9,Table 2,"pair-level count, code 9",0,0,MATCH,
+TABLE2-E9,Table 2,"event-level count, code 9 (maximum code per event)",0,0,MATCH,Event-level rule (maximum linkage class per event) is documented in CODEBOOK.md; the paper does not state it.
+BROAD-30,Findings / Fig. 2,dispute-level attention within 30 days (orders),6,6,MATCH,
+BROAD-30-PCT,Findings / Fig. 2,dispute-level attention within 30 days (%),25.0,25.0,MATCH,
+BROAD-90,Findings / Fig. 2,dispute-level attention within 90 days (orders),7,7,MATCH,
+BROAD-90-PCT,Findings / Fig. 2,dispute-level attention within 90 days (%),29.2,29.2,MATCH,
+BROAD-180,Findings / Fig. 2,dispute-level attention within 180 days (orders),10,10,MATCH,
+BROAD-180-PCT,Findings / Fig. 2,dispute-level attention within 180 days (%),41.7,41.7,MATCH,
+ENGAGE-30,Findings / Fig. 2,order-specific engagement within 30 days (orders),2,2,MATCH,
+ENGAGE-90,Findings / Fig. 2,order-specific engagement within 90 days (orders),2,2,MATCH,
+ENGAGE-180,Findings / Fig. 2,order-specific engagement within 180 days (orders),2,2,MATCH,
+ENGAGE-PCT,Findings,"order-specific engagement rate, primary (%)",8.3,8.3,MATCH,
+ENGAGE-SENS,Findings,"order-specific engagement rate, sensitivity sample N=27 (%)",7.4,7.4,MATCH,
+INTERNAL-01,Eq. 4-6,order-level indicators rebuilt from pair-level codes equal shipped order-level file,True,True,MATCH,
+EQ5-01,Eq. 5,code 3 <=> SameCase AND ExplicitOrderLink AND OfficialSource (rows disagreeing),0,0,MATCH,The 'InstitutionalProcess' condition of Eq. 5 has no separate column in the review file. See CODEBOOK.md.
+EQ4-01,Eq. 4,SameCase <=> code >= 2 (rows disagreeing),0,0,MATCH,
+CODE9-01,Findings,unresolved (code 9) rows remaining,0,0,MATCH,
+POS-01,Findings / Table 3,positive documentary records,4,4,MATCH,
+POS-02,Findings,institutional processes,3,3,MATCH,
+POS-03,Findings,Security Council processes,2,2,MATCH,
+POS-04,Findings,General Assembly processes,1,1,MATCH,
+POS-05,Findings,adopted collective action among positives,0,0,MATCH,
+POS-06,Findings,positive primary orders,2,2,MATCH,
+LAG-S/2024/173,Table 3,lag in days for S/2024/173 (recomputed from dates),25,25,MATCH,
+LAGFIELD-S/2024/173,Table 3,lag_days field for S/2024/173,25,25,MATCH,
+LAG-S/PV.9552,Table 3,lag in days for S/PV.9552 (recomputed from dates),25,25,MATCH,
+LAGFIELD-S/PV.9552,Table 3,lag_days field for S/PV.9552,25,25,MATCH,
+LAG-A/78/PV.59,Table 3,lag in days for A/78/PV.59 (recomputed from dates),38,38,MATCH,
+LAGFIELD-A/78/PV.59,Table 3,lag_days field for A/78/PV.59,38,38,MATCH,
+LAG-S/PV.9638,Table 3,lag in days for S/PV.9638 (recomputed from dates),5,5,MATCH,
+LAGFIELD-S/PV.9638,Table 3,lag_days field for S/PV.9638,5,5,MATCH,
+FIG5-01,Figure 5,orders marked positive,ICJ-192-2024-01-26|ICJ-192-2024-05-24,ICJ-192-2024-01-26|ICJ-192-2024-05-24,MATCH,
+NEG-ICJ-166-2017-04-19,Case concentration,no order-specific engagement: Ukraine v. Russia 2017,0,0,MATCH,
+NEG-ICJ-178-2020-01-23,Case concentration,no order-specific engagement: The Gambia v. Myanmar 2020,0,0,MATCH,
+NEG-ICJ-182-2022-03-16,Case concentration,no order-specific engagement: Ukraine v. Russia 2022,0,0,MATCH,
+NEG-ICJ-192-2024-03-28,Case concentration,no order-specific engagement: South Africa v. Israel 28 March 2024,0,0,MATCH,
+TABLE4-01,Table 4,reporting requirement present: engagement / none,2/10,2/10,MATCH,
+TABLE4-02,Table 4,reporting requirement absent: engagement / none,0/12,0/12,MATCH,
+P5-01,"Findings, 'permanent member pattern'",orders naming the RUSSIAN FEDERATION as respondent (paper text: six),6,3,MISMATCH,"The paper text attributes all six orders to the Russian Federation. Parsed respondents give Russia 3, United States 2, France 1. Six is the count for ALL permanent-member respondents. See docs/KNOWN_DISCREPANCIES.md."
+P5-02,Findings,orders naming ANY permanent member as respondent (parsed from case titles),6,6,MATCH,
+P5-03,Findings,permanent-member-respondent orders with engagement,0,0,MATCH,
+P5-04,Findings,orders with non-permanent-member respondents,18,18,MATCH,
+P5-05,Findings,non-permanent-member-respondent orders with engagement,2,2,MATCH,
+RECALL-00,Methods,recall-audit pairs,120,120,MATCH,
+RECALL-01,Methods,published recall subcategories: judicial elections / President briefings / Avena / unresolved,stated in paper,not computable from package,UNVERIFIABLE,"The exact 120 candidate IDs and the manuscript-supported binary human outcome are preserved, but the original four-way human row-to-subcategory mapping behind 113/5/1/1 is not. The aggregate statement is retained in RECALL_REVIEW_PUBLISHED_SUMMARY.csv and is not contradicted by the package."
+RECALL-02,Methods,recall pairs with completed review and zero order-specific engagement,120,120,MATCH,
+RECALL-03,Methods,binary recall ledger pair keys identical to reconstructed 120 candidate IDs,True,True,MATCH,
+HASH-01,"Methods, document integrity",archived UN PDFs whose recorded digest matched (flag),137,137,MATCH,Self-reported flag. PDFs are not redistributed. Use code/verify_source_hashes.py with a local PDF folder to re-verify.
+HASH-02,"Methods, document integrity",rows where expected_sha256 equals recomputed_sha256,137,137,MATCH,
+HASH-03,"Methods, document integrity / Table 3",SHA-256 integrity control applies to the documents used in analysis,stated in paper,not computable from package,UNVERIFIABLE,"Only 2 of 4 positive documentary records carry a stored digest. S/2024/173 and A/78/PV.59 have none (documented limitation, not a coding gap)."
+NOTVER-01,Methods,case-dictionary screen selects the 233 manual-review pairs,True,True,MATCH,Original dictionary and archived selection logic restored in v1.2.0-RC1; portable script reproduces exact pair keys.
+NOTVER-02,Methods,"Event duplication controlled by a composite key (date, symbol, process)",stated in paper,not computable from package,UNVERIFIABLE,The shipped keys are event_type::event_uid. The composite key is not stored.
+NOTVER-03,Methods,archived R analysis source recovered in package,True,True,MATCH,The recovered archival R script documents an R component; the canonical public reproduction remains Python. A portable R descriptive script is also supplied but was not runtime-tested in the build environment.
+NOTVER-04,Methods,no separate Article 41(2) notification-date field in frozen legal corpus,True,True,MATCH,A separate post-publication enrichment registry now records three Case No. 192 transmission documents; it is not used as published time zero.
+NOTVER-05,Materials and Methods,all substantive coding in public 233 file attributed to sole author,True,True,MATCH,No completed second-coder dataset is represented in the public release.
+NOTVER-06,Findings,four positive documentary records have explicit source pin-cites,True,True,MATCH,Pin-cites added after verification against official UN records. Source PDFs are still not redistributed.
